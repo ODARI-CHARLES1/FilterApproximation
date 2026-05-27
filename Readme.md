@@ -31,9 +31,9 @@ The Butterworth filter is known as a **maximally flat magnitude response filter*
 
 The magnitude response of a Butterworth filter is:
 
-[
+$[
 |H(j\omega)|^2 = \frac{1}{1 + (\frac{\omega}{\omega_c})^{2n}}
-]
+]$
 
 Where:
 
