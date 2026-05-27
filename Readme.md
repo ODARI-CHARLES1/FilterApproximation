@@ -37,7 +37,7 @@ The magnitude response of a Butterworth filter is:
 
 Where:
 
-* ( \omega_c ) = cutoff frequency
+* $( \omega_c ) = cutoff frequency$
 * ( n ) = filter order
 * Flat response in passband
 
