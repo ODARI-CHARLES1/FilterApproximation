@@ -57,7 +57,7 @@ pip install numpy scipy matplotlib control
 
 ---
 
-## 🧪 Implementation Steps
+## Implementation Steps
 
 ### 1. Import Libraries
 
