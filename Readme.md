@@ -1,5 +1,7 @@
 
-![involved-banner.png](attachment:d5bbd29f-41f2-488b-9e3c-728245d82a38.png)
+
+<img width="1700" height="600" alt="involved-banner" src="https://github.com/user-attachments/assets/195eaad6-efe5-4243-a307-38c3c3833855" />
+
 
 # Butterworth Filter Design Using Python (SciPy, NumPy, Control)
 
